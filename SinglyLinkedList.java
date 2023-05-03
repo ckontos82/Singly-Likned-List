@@ -1,4 +1,3 @@
-package gr.aueb.cf.testing.SLList;
 /**
  * Represents a singly linked list.
  *
