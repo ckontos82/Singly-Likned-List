@@ -1,4 +1,3 @@
-package gr.aueb.cf.testing.SLList;
 /**
  * Represents a simple node in a singly linked list.
  *
